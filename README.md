@@ -15,11 +15,6 @@ A comprehensive desktop application providing multiple utility tools with secure
 - **📊 Fake Data Generator**: Generate realistic test data for development
 - **🎨 Professional UI**: Modern dark-themed interface with smooth animations
 
-## 🖼️ Screenshots
-
-<!-- Add screenshots here later -->
-*Coming soon*
-
 ## 🚀 Installation
 
 ### Prerequisites
