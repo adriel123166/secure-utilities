@@ -1,0 +1,32 @@
+{
+  "color_scheme": {
+    "background": "#e9f0fa",
+    "foreground": "#333333",
+    "primary": "#4a90e2",
+    "secondary": "#d0e1f9",
+    "error": "#e74c3c",
+    "success": "#2ecc71"
+  },
+  "font_settings": {
+    "font_family": "Arial",
+    "font_size": 12,
+    "font_weight": "normal"
+  },
+  "button_styles": {
+    "padding": "10px 20px",
+    "border_radius": "5px",
+    "hover_effect": {
+      "background": "#4a90e2",
+      "color": "#ffffff"
+    }
+  },
+  "input_styles": {
+    "border": "1px solid #cccccc",
+    "border_radius": "4px",
+    "padding": "10px"
+  },
+  "label_styles": {
+    "font_weight": "bold",
+    "font_size": 14
+  }
+}
